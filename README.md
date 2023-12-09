@@ -16,11 +16,10 @@
 
 
 ## Collaborators
-Ankit Talele - amtalele@wpi.edu
-
 Chaitanya Sriram Gaddipati - cgaddipati@wpi.edu
 
 Shiva Surya Lolla - slolla@wpi.edu
 
+Ankit Talele - amtalele@wpi.edu
 
   
