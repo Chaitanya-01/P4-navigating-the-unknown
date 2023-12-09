@@ -61,6 +61,9 @@ Watch the good quality video of demo run 2 on the real tello drone here ([link1]
 	<img src="media/output4dronepov.gif" width="350" height="350" title="Cameraman POV"/>
 </p>
 
+## References
+1. [https://github.com/princeton-vl/RAFT](https://github.com/princeton-vl/RAFT)
+
 ## Collaborators
 Chaitanya Sriram Gaddipati - cgaddipati@wpi.edu
 
