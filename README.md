@@ -1,4 +1,4 @@
-# Optical flow based structure-less gap detection for drone flight -
+# Optical flow based structure-less gap detection for drone flight
 In this project a perception stack for the DJI Tello EDU quadcopter is designed to enabe it to autonomously
 navigate through irregular, unknown-shaped windows. The primary goal is to identify and fly through the largest gap in a wall. The process begins by maneuvering the quadcopter to a position where the full gap is visible, followed by detecting the optical flow of the window. Subsequently, this flow data is postprocessed
 to outline the largest gap’s contour and pinpoint its center. With the center identified we employ visual servoing to guide the quadcopter to align its image center with the gap’s center, facilitating a successful flight through the gap.
@@ -26,16 +26,16 @@ Testing the flow detection in blender simulation:
 
 Case 1:
 <p float="middle">
-	<img src="media/test1.gif" width="300" height="300" title="frames"/> 
-	<img src="media/processed_flow/test1h_frame000.png" width="300" height="300" title="flow"/>
-	<img src="media/processed_frame/test1h_frame000.png" width="300" height="300" title="real frame"/>
+	<img src="media/test1.gif" width="250" height="250" title="frames"/> 
+	<img src="media/processed_flow/test1h_frame000.png" width="250" height="250" title="flow"/>
+	<img src="media/processed_frame/test1h_frame000.png" width="250" height="250" title="real frame"/>
 </p>
 
 Case 2:
 <p float="middle">
-	<img src="media/test2.gif" width="300" height="300" title="frames"/> 
-	<img src="media/processed_flow/test2h_frame000.png" width="300" height="300" title="flow"/>
-	<img src="media/processed_frame/test2h_frame000.png" width="300" height="300" title="real frame"/>
+	<img src="media/test2.gif" width="250" height="250" title="frames"/> 
+	<img src="media/processed_flow/test2h_frame000.png" width="250" height="250" title="flow"/>
+	<img src="media/processed_frame/test2h_frame000.png" width="250" height="250" title="real frame"/>
 </p>
 
 ### Real world run
