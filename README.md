@@ -40,7 +40,6 @@ Case 2:
 
 ### Real world run
 Gaussian splat of the real window in the lab:
-
 <p float="middle">
 	<img src="media/gausssplat_gif.gif" width="375" height="200" />
 </p>
@@ -60,6 +59,7 @@ Watch the good quality video of demo run 2 on the real tello drone here ([link1]
 	<img src="media/output4.gif" width="350" height="350" title="Drone POV"/> 
 	<img src="media/output4dronepov.gif" width="350" height="350" title="Cameraman POV"/>
 </p>
+
 
 ## References
 1. [https://github.com/princeton-vl/RAFT](https://github.com/princeton-vl/RAFT)
