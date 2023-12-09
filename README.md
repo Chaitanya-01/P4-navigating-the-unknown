@@ -46,6 +46,7 @@ Gaussian splat of the real window in the lab:
 </p>
 
 Live demo runs:
+
 Watch the good quality video of demo run 1 on the real tello drone here ([link1](https://youtu.be/wt_jdC7YsPk) and [link2](https://youtu.be/kCroe-EPg3U)).
 
 <p float="middle">
